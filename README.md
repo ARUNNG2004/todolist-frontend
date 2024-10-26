@@ -23,3 +23,9 @@ Explore the live demo [here](https://todowithrestapi.netlify.app/).
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/Aloshva-TodoList.git
+
+2.Install the necessary dependencies:
+npm install
+
+3.Start the application:
+npm start
