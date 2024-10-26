@@ -1,4 +1,4 @@
-# Aloshva To-Do List Demo
+# To-Do List Demo
 
 This project is a live demonstration of a to-do list application built using REST API and other technologies to offer a smooth and interactive user experience.
 
@@ -10,7 +10,7 @@ This project is a live demonstration of a to-do list application built using RES
 
 ## Live Demo
 
-Explore the live demo [here](https://todowithrestapi.netlify.app/).
+Explore the live demo [Click here](https://todowithrestapi.netlify.app/).
 
 ## Getting Started
 
@@ -24,8 +24,10 @@ Explore the live demo [here](https://todowithrestapi.netlify.app/).
    ```bash
    git clone https://github.com/yourusername/Aloshva-TodoList.git
 
-2.Install the necessary dependencies:
-npm install
+2. Install the necessary dependencies:
+ ```bash
+   npm install
 
-3.Start the application:
-npm start
+3. Start the application:
+ ```bash
+   npm start
